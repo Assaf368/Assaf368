@@ -6,7 +6,7 @@ Full-Stack developer!
 
 I recently successfully completed an in-depth course in full stack development. I worked on personal projects that boosted my skills up even more!
 
-* 🌍  I'm based in Ra'nana
+* 🌍  I'm based in Ra'anana
 
 ### Skills
 
